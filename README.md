@@ -6,6 +6,14 @@ It leverages Natural Language Processing (NLP) and similarity-based machine lear
 
 ---
 
+## 🚀 Live Demo
+
+You can access the deployed application here:
+
+**[https://ascend-app-zeta.vercel.app/](https://ascend-app-zeta.vercel.app/)**
+
+---
+
 ## 📌 Features
 
 - 🎯 Personalized certificate recommendations
